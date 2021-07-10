@@ -1,6 +1,6 @@
 - Hi, I’m @Codelorian
-- I’m interested in Pygames
-- I’m currently learning Pygames
+- I’m interested in Software Development
+- I’m currently learning C++
 
 <!---
 Codelorian/Codelorian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
